@@ -71,6 +71,7 @@ Wright High School	Charter	1,800	$1,049,400.00	$583.00	83.682222	83.955000	93.33
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
 Top Performing Schools
+	School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Over Passing
 Cabrera High School	Charter	1,858	$1,081,356.00	$582.00	83.061895	83.975780	94.133477	97.039828	91.334769
 Thomas High School	Charter	1,635	$1,043,130.00	$638.00	83.418349	83.848930	93.272171	97.308869	90.948012
 Griffin High School	Charter	1,468	$917,500.00	$625.00	83.351499	83.816757	93.392371	97.138965	90.599455
@@ -80,6 +81,13 @@ Pena High School	Charter	962	$585,858.00	$609.00	83.839917	84.044699	94.594595	9
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
+Bottom Performing Schools
+	School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Over Passing
+Rodriguez High School	District	3,999	$2,547,363.00	$637.00	76.842711	80.744686	66.366592	80.220055	52.988247
+Figueroa High School	District	2,949	$1,884,411.00	$639.00	76.711767	81.158020	65.988471	80.739234	53.204476
+Huang High School	District	2,917	$1,910,635.00	$655.00	76.629414	81.182722	65.683922	81.316421	53.513884
+Hernandez High School	District	4,635	$3,022,020.00	$652.00	77.289752	80.934412	66.752967	80.862999	53.527508
+Johnson High School	District	4,761	$3,094,650.00	$650.00	77.072464	80.966394	66.057551	81.222432	53.539172
 ### Math Scores by Grade\*\*
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
