@@ -70,6 +70,12 @@ Wright High School	Charter	1,800	$1,049,400.00	$583.00	83.682222	83.955000	93.33
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+Top Performing Schools
+Cabrera High School	Charter	1,858	$1,081,356.00	$582.00	83.061895	83.975780	94.133477	97.039828	91.334769
+Thomas High School	Charter	1,635	$1,043,130.00	$638.00	83.418349	83.848930	93.272171	97.308869	90.948012
+Griffin High School	Charter	1,468	$917,500.00	$625.00	83.351499	83.816757	93.392371	97.138965	90.599455
+Wilson High School	Charter	2,283	$1,319,574.00	$578.00	83.274201	83.989488	93.867718	96.539641	90.582567
+Pena High School	Charter	962	$585,858.00	$609.00	83.839917	84.044699	94.594595	95.945946	90.540541
 ### Bottom Performing Schools (By % Overall Passing)
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
