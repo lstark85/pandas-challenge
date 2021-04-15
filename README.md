@@ -18,6 +18,10 @@ Your final report should include each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  District Summary
+  Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
+0	15	39,170	$24,649,428.00	78.985	81.878	74.980853	85.805463	65.172326
 
 ### School Summary
 
